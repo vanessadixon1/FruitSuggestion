@@ -1,4 +1,4 @@
-# Fruit Suggestion Input
+# Fruit Suggestion
 
 This is a way to search for a fruit. As the user begins typing a fruit name, suggestions for fruits will be shown and once a fruit is selected is will be shown in the input value.
 
